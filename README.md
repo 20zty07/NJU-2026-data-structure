@@ -1,1 +1,2 @@
-# NJU-2026-data-structure
+# Plagiarism is strictly prohibited.
+# Errors may exist, and your understanding is appreciated.
